@@ -1,0 +1,98 @@
+[
+      {
+            "id": 1,
+            "name": "Grilled Chicken with Basil",
+            "description": "A delicious grilled chicken recipe with a touch of basil for an aromatic experience.",
+            "image": "https://i.ibb.co.com/2PbSPYc/ai-generated-8542471-1280.webp",
+            "preparing_time": 30,
+            "calories": 320,
+            "ingredients": [
+                  "550 g chicken",
+                  "120 ml soy sauce",
+                  "200 g basil leaf",
+                  "400 g mushroom"
+            ]
+      },
+      {
+            "id": 2,
+            "name": "Spaghetti Carbonara",
+            "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+            "image": "https://i.ibb.co.com/R3kLnD6/cooked-italian-pasta-with-greens-lemon-slices-along-with-vegetables-oil-inside-blue-140725-29884.jpg",
+            "preparing_time": 25,
+            "calories": 400,
+            "ingredients": [
+                  "200 g spaghetti",
+                  "100 g pancetta",
+                  "2 large eggs",
+                  "50 g grated Parmesan",
+                  "2 cloves garlic"
+            ]
+      },
+      {
+            "id": 3,
+            "name": "Avocado Toast",
+            "description": "Simple and nutritious avocado toast topped with a sprinkle of chili flakes.",
+            "image": "https://i.ibb.co.com/R4ShzNf/top-view-plate-with-egg-avocado-sandwiches-cutlery-23-2148640216.jpg",
+            "preparing_time": 10,
+            "calories": 250,
+            "ingredients": [
+                  "1 avocado",
+                  "2 slices whole grain bread",
+                  "1 tbsp olive oil",
+                  "Chili flakes",
+                  "Salt",
+                  "Pepper"
+            ]
+      },
+      {
+            "id": 4,
+            "name": "Beef Stir-Fry",
+            "description": "A quick and easy stir-fry with tender beef strips and fresh vegetables.",
+            "image": "https://i.ibb.co.com/qp0mXQN/barbecue-5002642-1280.jpg",
+            "preparing_time": 20,
+            "calories": 450,
+            "ingredients": [
+                  "300 g beef strips",
+                  "1 red bell pepper",
+                  "1 green bell pepper",
+                  "100 g broccoli",
+                  "50 ml soy sauce",
+                  "1 tbsp ginger paste",
+                  "2 cloves garlic"
+            ]
+      },
+      {
+            "id": 5,
+            "name": "Vegetable Curry",
+            "description": "A flavorful curry packed with mixed vegetables and aromatic spices.",
+            "image": "https://i.ibb.co.com/yf8YKY5/summer-tomato-salad-with-basil-pesto-arugula-2829-14509.jpg",
+            "preparing_time": 40,
+            "calories": 370,
+            "ingredients": [
+                  "200 g potatoes",
+                  "150 g carrots",
+                  "100 g peas",
+                  "1 onion",
+                  "2 tomatoes",
+                  "2 tsp curry powder",
+                  "200 ml coconut milk"
+            ]
+      },
+      {
+            "id": 6,
+            "name": "Chocolate Brownies",
+            "description": "Rich and fudgy chocolate brownies with a gooey center.",
+            "image": "https://i.ibb.co.com/RQft4Pv/chocolate-8519117-1280.webp",
+            "preparing_time": 45,
+            "calories": 500,
+            "ingredients": [
+                  "200 g dark chocolate",
+                  "150 g butter",
+                  "3 eggs",
+                  "200 g sugar",
+                  "100 g flour",
+                  "50 g cocoa powder",
+                  "1 tsp vanilla extract"
+            ]
+      }
+]
